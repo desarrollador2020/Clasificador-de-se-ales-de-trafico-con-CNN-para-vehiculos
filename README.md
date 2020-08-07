@@ -1,4 +1,3 @@
-# Clasificador-de-se-ales-de-trafico-con-CNN-para-vehiculos 
 # Clasificador-de-señales-de-trafico-con-CNN-para-vehiculos
 Un conjunto de cuadernos Jupyter que demuestran una simple implicación de como clasificar imagenes. Los cuadernos utilizan el conjunto de datos Train-Test-Validation para mostrar la efectividad de la arquitectura. 
 
